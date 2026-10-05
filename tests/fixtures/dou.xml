@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>DOU</title>
+<item><title>Python Software Engineer в PlantIn, Київ, віддалено</title>
+<link>https://jobs.dou.ua/companies/plantin/vacancies/375469/?utm_source=jobsrss</link>
+<description>&lt;p&gt;Build &lt;strong&gt;LLM&lt;/strong&gt; features with Python, FastAPI and PostgreSQL.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Docker&lt;/li&gt;&lt;/ul&gt;</description>
+<pubDate>{RECENT}</pubDate></item>
+<item><title>Senior Java Developer в Acme, Львів</title>
+<link>https://jobs.dou.ua/companies/acme/vacancies/1/</link>
+<description>&lt;p&gt;Java and Spring only.&lt;/p&gt;</description>
+<pubDate>{RECENT}</pubDate></item>
+<item><title>Python Dev в Onsite Co, Київ</title>
+<link>https://jobs.dou.ua/companies/onsite/vacancies/2/</link>
+<description>&lt;p&gt;Python, office only.&lt;/p&gt;</description>
+<pubDate>{RECENT}</pubDate></item>
+</channel></rss>

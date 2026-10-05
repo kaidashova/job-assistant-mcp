@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Djinni</title>
+<item><title>Middle Python Developer (ML)</title>
+<link>https://djinni.co/jobs/850001-middle-python-developer-ml/</link>
+<description>&lt;p&gt;Python, PyTorch, machine learning, Docker. Remote.&lt;/p&gt;</description>
+<pubDate>{OLD}</pubDate><guid>x</guid><category>Python</category></item>
+<item><title>Senior AI Engineer (R&amp;amp;D)</title>
+<link>https://djinni.co/jobs/850002-senior-ai-engineer/</link>
+<description>&lt;p&gt;Python, LLM, RAG, AWS and Kubernetes.&lt;/p&gt;</description>
+<pubDate>{RECENT}</pubDate><guid>y</guid><category>Python</category><category>Data Science</category></item>
+</channel></rss>

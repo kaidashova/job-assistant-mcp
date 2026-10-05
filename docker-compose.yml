@@ -1,0 +1,16 @@
+# HTTP mode: MCP endpoint at http://localhost:${HOST_PORT:-8000}/mcp (data persisted in the `job-data` volume)
+services:
+  job-assistant:
+    build: .
+    image: job-assistant-mcp
+    container_name: job-assistant-mcp
+    environment:
+      MCP_TRANSPORT: streamable-http
+    ports:
+      - "127.0.0.1:${HOST_PORT:-8000}:8000"
+    volumes:
+      - job-data:/data
+    restart: unless-stopped
+
+volumes:
+  job-data:
